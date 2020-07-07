@@ -1,5 +1,5 @@
 # Minesweeper_C-PlusPlus
-Minesweeper_C-PlusPlus is the fist C++ project I had developed after I had finished learning C++.
+Minesweeper_C-PlusPlus is the fist C++ project I had developed with my friend, after I had finished learning C++.
 
 Game Rules:
 Dig all the non-mine cells
